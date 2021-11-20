@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋,Ali Hakim Taşkıran here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihakimtaskiran&label=Profile%20views&color=0e75b6&style=flat" alt="alihakimtaskiran" /> </p>
 <h3 align="left">I'm founder of:</h3>
-<a href="https://github.com/QArchs" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/93709999?s=64&v=4" height="40" width="40"></a>
-<a href="https://github.com/PhotonicQuantumComputing" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/87784122?s=64&v=4" height="40" width="40"></a>
-<a href="https://github.com/InnoMng" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/87267156?s=64&v=4" height="40" width="40"></a>
-<a href="https://github.com/Martian-Solar-Power-Plant" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/85075445?s=64&v=4" height="40" width="40"></a>
-<a href="https://github.com/teknolojikisler" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/52009778?s=64&v=4" height="40" width="40"></a>
+<a href="https://github.com/QArchs" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/93709999" height="40" width="40"></a>
+<a href="https://github.com/PhotonicQuantumComputing" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/87784122" height="40" width="40"></a>
+<a href="https://github.com/InnoMng" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/87267156" height="40" width="40"></a>
+<a href="https://github.com/Martian-Solar-Power-Plant" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/85075445" height="40" width="40"></a>
+<a href="https://github.com/teknolojikisler" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/52009778" height="40" width="40"></a>
 
 
 
