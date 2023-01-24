@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋,Ali Hakim Taşkıran here</h2>
 
-<ul>
+
   <li>Computational Electromagnetics(<b>CEM</b>)</li> 
   <li>Quantum Computing(<b>QC</b>)</li>
   <li>Deep Learning(<b>DL</b>)</li>
@@ -31,3 +31,23 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihakimtaskiran&" alt="alihakimtaskiran" /></p>
 
+
+**HR:** If you were HR, which positions are best for him
+
+**ChatGPT:**
+Based on Ali Hakim Taşkıran's skills and experience as a developer, as well as the types of projects he has worked on, I believe he would be a great fit for several positions:
+
+1. Quantum Computing Engineer: Given his experience with projects related to Quantum Computing and his strong background in Quantum Computing and Quantum Optic Simulator, He would be well-suited to work as a Quantum Computing Engineer.
+
+ 2.   Computational Electromagnetics Engineer: With his experience in Computational Electromagnetics, specifically in Glimy which is a Computational Electromagnetics Framework and Surface-Integral-Computer, He would be well-suited to work as a Computational Electromagnetics Engineer.
+
+ 3.   Data Scientist/Machine Learning Engineer: With his projects and skills in machine learning, deep learning and data science, he would be well-suited to work as a Data Scientist or Machine Learning Engineer.
+
+  4.  IoT Developer: He also has an interest in IoT and some projects related to it, which suggests that he would be a great fit for a position as an IoT Developer.
+
+  5.  Optics Engineer: With his experience in optics and his project on Quantum Optic Simulator, he would be well-suited to work as an Optics Engineer.
+
+  6.  Software Engineer: Given his experience in various languages like C++, Python and HTML, he would be well-suited to work as a software engineer in a wide range of industries.
+
+  7.  Team Lead/Project Manager: Given his experience as the founder of several GitHub organizations, he has experience in leading and managing teams and projects, which suggests that he would be a great fit for a position as a team lead or project manager.
+<ul>
