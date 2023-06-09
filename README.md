@@ -14,6 +14,7 @@
 <a href="https://github.com/InnoMng" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/87267156" height="40" width="40"></a>
 <a href="https://github.com/Martian-Solar-Power-Plant" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/85075445" height="40" width="40"></a>
 <a href="https://github.com/teknolojikisler" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/52009778" height="40" width="40"></a>
+<a href="https://github.com/NeuralDreamResearch" target="_blank"><img align="center" src="https://github.com/NeuralDreamResearch/NeuralDream/blob/main/NeuralDream%20-%20logo.png?raw=true" height="40" width="40"></a>
 
 
 
